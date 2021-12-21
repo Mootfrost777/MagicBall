@@ -1,2 +1,2 @@
 # MagicBall
-Simple magix ball app for pc.
+Simple magic ball app for pc.
